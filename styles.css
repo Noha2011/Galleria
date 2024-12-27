@@ -54,5 +54,6 @@ h1 span {
     opacity: 0;
     transform: translateY(3em);
     animation: fadeInslideUp 2s 4s ease forwards;
+    cursor: pointer;
 }
 
